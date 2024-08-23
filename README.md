@@ -40,5 +40,3 @@
 
 
 ---
-
-Feel free to adjust the content or add any additional sections relevant to your project.
